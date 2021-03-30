@@ -1,1 +1,16 @@
-# AC-03-ESTRUTURADEDADOS
+# AC3-EstruturaDeDados
+AC 3 de Estrutura de Dados do Professor Takai
+
+# Integrantes:
+
+- Giovanni Assis Lopes
+RA: 1903604
+
+- Kaique Mantoanelli Silva
+RA: 1903168
+
+- Pedro Henrique Oliveira Dantas Lopes
+RA: 1904007
+
+- Rafael Serino Kiss
+RA: 1903107
